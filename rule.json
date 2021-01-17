@@ -1,0 +1,39 @@
+{
+  "name": "Wtyki męskie pasują do gniazda żeńskiego",
+  "findProducts": [
+    {
+      "parameter": "Kategoria",
+      "equals": "112995"
+    },
+    {
+      "parameter": "Rodzaj konektora",
+      "equals": "męski"
+    },
+    {
+      "parameter": "Długość",
+      "equals": "any"
+    },
+    {
+      "parameter": "Szerokość",
+      "equals": "any"
+    }
+  ],
+  "matchProducts": [
+    {
+      "parameter": "Kategoria",
+      "equals": "this"
+    },
+    {
+      "parameter": "Rodzaj konektora",
+      "equals": "żeński"
+    },
+    {
+      "parameter": "Długość",
+      "equals": "this"
+    },
+    {
+      "parameter": "Szerokość",
+      "equals": "this"
+    }
+  ]
+}

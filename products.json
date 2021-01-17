@@ -1,0 +1,86 @@
+{
+  "42": {
+    "id": "42",
+    "symbol": "0000.1101.0606",
+    "id_category": "112995",
+    "parameters": {
+      "Kategoria": "112995",
+      "Rodzaj konektora": "męski",
+      "Długość": "23.2345",
+      "Szerokość": "23.2345"
+    }
+  },
+  "43": {
+    "id": "43",
+    "symbol": "0000.1101.0607",
+    "id_category": "112995",
+    "parameters": {
+      "Kategoria": "112995",
+      "Rodzaj konektora": "męski",
+      "Długość": "25",
+      "Szerokość": "25"
+    }
+  },
+  "44": {
+    "id": "44",
+    "symbol": "0000.1101.0610",
+    "id_category": "112995",
+    "parameters": {
+      "Kategoria": "112995",
+      "Rodzaj konektora": "żeński",
+      "Długość": "23.2345",
+      "Szerokość": "23.2345"
+    }
+  },
+  "45": {
+    "id": "45",
+    "symbol": "0000.1101.0611",
+    "id_category": "112995",
+    "parameters": {
+      "Kategoria": "112995",
+      "Rodzaj konektora": "żeński",
+      "Długość": "25",
+      "Szerokość": "25"
+    }
+  },
+  "47": {
+    "id": "47",
+    "symbol": "0000.1101.0615",
+    "id_category": "112995",
+    "parameters": {
+      "Kategoria": "112995",
+      "Rodzaj konektora": "żeński",
+      "Długość": "23.2345",
+      "Szerokość": "23.2345"
+    }
+  },
+  "48": {
+    "id": "48",
+    "symbol": "0000.1101.1018",
+    "id_category": "112995",
+    "parameters": {
+      "Kategoria": "112995",
+      "Typ akcesoriów do czujników": "obudowa"
+    }
+  },
+  "49": {
+    "id": "49",
+    "symbol": "0000.1101.0608",
+    "id_category": "112995",
+    "parameters": {
+      "Kategoria": "112995",
+      "Rodzaj konektora": "męski",
+      "Długość": "20",
+      "Szerokość": "20"
+    }
+  },
+  "50": {
+    "id": "50",
+    "symbol": "0000.1101.0609",
+    "id_category": "112995",
+    "parameters": {
+      "Kategoria": "112995",
+      "Rodzaj konektora": "męski"
+    }
+  }
+}
