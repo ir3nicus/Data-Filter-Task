@@ -11,7 +11,7 @@ The equals parameter in the criteria list can contain specific values ​​or r
   fit.
 
 
-Program to write
+Program to write:
 The task is to write a Php7 program that will be run with
 console level with two parameters, path to * .json file with product list and
 path to * .json file with rules list.
